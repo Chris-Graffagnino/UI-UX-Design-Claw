@@ -1,3 +1,9 @@
+---
+name: website-design-claw
+description: High-conversion interface engineering using cognitive psychology, ocular tracking, and INP optimization. Use when auditing websites, designing landing pages, optimizing CTAs, improving UX conversions, analyzing user behavior, or working on CRO (conversion rate optimization).
+argument-hint: "audit [URL] | align [BuyerType] | test [Hypothesis] | simplify [Text]"
+---
+
 # Agentic UI/UX Design Manual
 
 A definitive reference for AI agents generating user interface and user experience designs. Every directive in this manual is actionable and verifiable.
